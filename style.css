@@ -1,3 +1,36 @@
 *{
+    margin: 0;
+
+}
+
+.bg-gradient{
+    height: 650px;
+    width: 100%;
+    background-color: pinks;
     background-image: url(images/donation9.jpg);
+    background-size: cover;
+    background-position: center;
+    /* transform: scaleX(-1); */
+
+}
+.bg-gradient p{
+    font-size: 2rem;
+    margin: 100px;
+    position: absolute;
+    color: white;
+    left: 100px;
+    top: 300px;
+    text-align: center;
+}
+.bg-gradient h3{
+    text-align: center;
+    font-size: 4rem;
+    position: absolute;
+    color: white;
+    left: 250px;
+    right: 200px;
+    top: 200px;
+    margin: 30px;
+
+
 }
